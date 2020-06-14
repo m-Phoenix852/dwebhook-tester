@@ -14,10 +14,11 @@ node index.js
 pause
 ``` and then save it as `start.bat`]
 /
+
 [shell: 
-```sh
+```shell
 node index.js
-``` 
+```
 and then save it as `start.sh`]
 # Contact
 Want to report a bug? Or just want a new feature in it? Just move to my contact page [here](http://contact.phoenix852.rf.md/)
